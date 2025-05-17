@@ -1,2 +1,2 @@
 # o1assist
-Early days with chatgpt Operator service
+Early days with ChatGPT operator service.
